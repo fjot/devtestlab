@@ -1,2 +1,2 @@
 # devtestlab_project_demo
-Helllo Lughni editing from the server
+This is a demo project to test DTLABS-ECOM 
