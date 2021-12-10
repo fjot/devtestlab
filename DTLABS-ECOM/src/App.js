@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>Hello Pancho and Lughni</h1>
+    <h1>This project is for test DTLABS-ECOM</h1>
     </div>
   );
 }
